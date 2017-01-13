@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+
 
 ---
 
 ### 关于我
 
-> #  #人生如逆旅，我亦是凡人。 
+> #人生如逆旅，我亦是凡人。 
 
    
 
