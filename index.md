@@ -8,7 +8,6 @@ layout: default
       <div class="info-card">
         <h1>奕剑听雨阁</h1>
         <a href="http://weibo.com/klx/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="27"/></a>
-        
       </div>
       <div id="particles-js"></div>
     </div>
