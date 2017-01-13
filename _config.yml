@@ -5,11 +5,3 @@ description: 烟雨楼中看烟雨，红尘客栈叹红尘
 
 
 
-# Build settings
-markdown: kramdown
-
-# highlight
-# 本地用rouge, github上用pygments
-# highlighter: pygments
-# highlighter: rouge
-# highlighter: false
