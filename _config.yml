@@ -3,7 +3,7 @@ title: 奕剑听雨阁
 email: 1464921184@qq.com
 description: 烟雨楼中看烟雨，红尘客栈叹红尘
 
-permalink: /:year/:month/:day/:title/
+
 
 # Build settings
 markdown: kramdown
