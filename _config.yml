@@ -1,6 +1,7 @@
-permalink: /:title
+# Site settings
+title: å¥•å‰‘å¬é›¨é˜
+email: 1464921184@qq.com
+description: çƒŸé›¨æ¥¼ä¸­çœ‹çƒŸé›¨ï¼Œçº¢å°˜å®¢æ ˆå¹çº¢å°˜
 
-title: ŞÈ½£ÌıÓê¸ó
-url: https://jh-tingyu.github.io/
-feed: /atom.xml
-author_info: <a href="https://jh-tingyu.github.io/">ŞÈ½£ÌıÓê¸ó</a>
+
+
