@@ -1,14 +1,11 @@
 auto: true
 
-markdown: rdiscount
-
+#markdown: rdiscount
 highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: â€œå¥•å‰‘å¬é›¨â€
-title: å¥•å‰‘å¬é›¨
-description: Something about me.
+title: Hyper Hamster
 url: http://jh-tingyu.github.io
 feed: /atom.xml
-author_info: <a href="http://jh-tingyu.github.io/">Mukosame</a>
+author_info: <a href="http://jh-tingyu.github.io/">ŞÈ½£ÌıÓê</a>
