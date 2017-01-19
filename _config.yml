@@ -1,5 +1,6 @@
-# Site settings
 encoding: UTF-8
+# Site settings
+
 title: 奕剑听雨
 email: 1464921184@qq.com
 description: > # this means to ignore newlines until "baseurl:"
